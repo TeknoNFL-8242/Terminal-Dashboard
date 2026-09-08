@@ -865,6 +865,7 @@ func (m model) viewHelp() string {
   │    help         -> Yardım                     │
   │    controller   -> Controller diagnostic      │
   │    settings     -> Ayarlar                    │
+  │    VARIABLES [x,y,z,k,a] example -> y=0.3     │
   │                                               │
   │  Shoot Mode Ayarları:                         │
   │    red / blue   -> Alliance seçimi            │
@@ -887,6 +888,10 @@ func (m model) viewSettings() string {
  │  Komutlar:                                    │
  │  > k=value   : k değerini değiştirir          │
  │  > a=value   : a değerini değiştirir          │
+ │  > x=(value)                                  │
+ │  > y=(value)                                  │
+ │  > z=(value)                                  │
+ │                                               │
  │  > return    : Dashboard'a geri dön           │
  └───────────────────────────────────────────────┘
 `
