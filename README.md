@@ -14,3 +14,15 @@ And if you not interested with FRC but have a Extreme 3D Pro Joystick, you can v
 <img src="https://github.com/TeknoNFL-8242/Terminal-Dashboard/blob/main/images/joy.png" alt="controller mode">
 
 ( The controller was not currently with me so i use IDA to bypass error message to show the TUI output)
+
+
+
+VARIABLES [x,y,z,k,a]
+
+example:
+x=0.1    
+y=0.2    
+z=0.1
+k=1.8
+a=3.2
+
