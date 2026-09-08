@@ -12,3 +12,4 @@ You can dirrectly connect Extreme 3D Pro Joystick to your pc, get joistic output
 
 And if you not interested with FRC but have a Extreme 3D Pro Joystick, you can view the outputs with this executable
 
+<img src="https://github.com/TeknoNFL-8242/Terminal-Dashboard/blob/main/joy.png?raw=true" alt="controller mode">
